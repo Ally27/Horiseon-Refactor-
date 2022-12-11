@@ -2,15 +2,15 @@
 
 ## Description
 
-With the motivation to gain more users, Horiseon now welcomes a more diverse user to its web application with its new improvements.
-Horiseon is optimized for a better accessability experience.
+With the motivation to improve user experience, Horiseon now welcomes a more diverse user to its web application with its new improvements.
+Horiseon is now optimized for a better accessability experience.
 
 
 ## Whats New
-- Adjustments to accessability standards
-- Updated elements
-- Image resizing
-- Improved functionality on web application
+- Adjustments to accessability standards.
+- Updated elements.
+- Image resizing.
+- Improved functionality.
 
 
 ## License
