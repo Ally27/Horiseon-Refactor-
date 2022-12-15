@@ -104,7 +104,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* Removed repetitive selectors */
 .white-marginBottom{
     margin-bottom: 10px;
     text-align: center;
