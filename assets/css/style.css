@@ -104,25 +104,13 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* Removed repetitive selectors */
 .white-marginBottom{
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
+.benefit-lead img group {
     display: block;
     margin: 10px auto;
     max-width: 150px;
