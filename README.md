@@ -12,6 +12,8 @@ Horiseon is now optimized for a better accessability experience.
 - Image resizing.
 - Improved functionality.
 
+## Web Application
+[Horiseon Refactor](https://ally27.github.io/Horiseon-Refactor-/)
 
 ## License
 MIT License
